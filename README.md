@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**rebeccadoesweb/rebeccadoesweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rebecca, a snack shop employee based in Virginia with a passion for frontend development.
 
-Here are some ideas to get you started:
+💻 Currently building **Frontend Mentor** challenges and growing my skills one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+♿ **Accessibility is a priority** in every project I create. I strive to build inclusive, user-friendly experiences for everyone.
+
+---------
+🛠️ Tools & Tech
+- HTML, CSS & JavaScript
+- VS Code
+- Git & GitHub
+- ----
+🌷 Beyond the Code
+
+- 📚 Reading
+- 🎵  Listening to music
+- ⛳ Playing golf
+- 🎨 Digital coloring
